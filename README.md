@@ -8,7 +8,7 @@
     I am studying at SETECT INSTITUE<br>
     I am in my fourth year at university. My major is Computer Science.  <br> <br>
     <a href="https://www.rupp.edu.kh">
-      <img  alt="Visual Studio Code" width="50px" src="[https://i.imgur.com/UyGOhnf.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFWatC3zi9EDSu7wE1hv9hy7OtLPmjDcVbtqzHXQ3N_w&s)" style="padding:30px 30px;" />
+      <img  alt="Visual Studio Code" width="50px" src="https://www.setecu.com/images/sampledata/icetheme/logo.png" style="padding:30px 30px;" />
     </a>
     <br>
   </p> 
