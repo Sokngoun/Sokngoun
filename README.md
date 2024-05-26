@@ -1,4 +1,4 @@
-<div>
+![image](https://github.com/Sokngoun/Sokngoun/assets/97342948/74bf8620-859d-4db5-be1e-da1ce19f6489)<div>
 <div align="center">
 
 <h1 align="center">
@@ -8,7 +8,7 @@
     I am studying at SETECT INSTITUE<br>
     I am in my fourth year at university. My major is Computer Science.  <br> <br>
     <a href="https://www.rupp.edu.kh">
-      <img  alt="Visual Studio Code" width="50px" src="https://i.imgur.com/UyGOhnf.png" style="padding:30px 30px;" />
+      <img  alt="Visual Studio Code" width="50px" src="[https://i.imgur.com/UyGOhnf.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFWatC3zi9EDSu7wE1hv9hy7OtLPmjDcVbtqzHXQ3N_w&s)" style="padding:30px 30px;" />
     </a>
     <br>
   </p> 
